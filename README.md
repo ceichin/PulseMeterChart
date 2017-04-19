@@ -9,4 +9,4 @@ Information that has been parsed:
  - Beat
  - If finger is in or out
 
-![alt tag](https://github.com/ceichin/PulseMeterChart/master/screenshot.png)
+![alt tag](https://github.com/ceichin/PulseMeterChart/blob/master/screenshot.png)
